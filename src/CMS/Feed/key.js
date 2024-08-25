@@ -1,1 +1,1 @@
-export const apiKey = '70f6517157374ba79cbc972e17d6227f';
+export const apiKey = 'Get your key from https://newsapi.org';
